@@ -1,0 +1,31 @@
+<html lang="br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sobre mim</title>
+</head>
+<body>
+    <h1>Informações</h1>
+    <nav><ul>
+        <li><a href="#about">Sobre mim</a></li>
+        <li><a href="#contato">Contato</a></li>
+        <li><a href="#qualidades">Qualidades</a></li>
+        <li><a href="../files/images.html">Fotos</a></li>
+    </ul></nav>
+    
+    <h2 id="about"> Sobre mim</h2>
+    <p>
+        18 anos, 15 cm altura e 5cm circunferencia, bom no lol e no valorant, mato no rolas, faço café sem açucar e ovo mexido.
+    </p>
+    
+    <h2 id="contato"> Contato</h2>
+    <li><a href="https://wa.me/5562984699261"target="_blank">Telefone</a></li>
+    <li><a href="mailto:luizfelipegomidesc172005@gmail.com">Email</a></li>
+    <li><a href= "https://www.google.com.br/maps/place/Goiânia+Shopping/@-16.7083507,-49.275003,17z/data=!3m1!4b1!4m6!3m5!1s0x935ef12544136db3:0x1b20c322bbad1d83!8m2!3d-16.7083507!4d-49.272809!16s%2Fg%2F11b64hz4q9"target="_blank">Endereço</a></li>
+
+
+
+    
+</body>
+</html>
